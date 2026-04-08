@@ -2,6 +2,7 @@
 Two geopackage GIS files. One of European homesteader settlement of Upper Canada (present-day Ontario) from 1790 to 1851. Another of First Nations territories in the year 1837. 
 
 **Bibliography**:
+
 Brant, Pete. Map of Tyendinaga Mohawk Territory Land Surrenders and Claims. In Tsi Tyónnheht Onkwawén:na and the Mohawks of the Bay of Quinte Research Department. "Tyendinaga Mohawk Territory." The Canadian Encyclopedia. February 15, 2022. https://www.thecanadianencyclopedia.ca/en/article/tyendinaga-mohawk-territory.
 
 Canada. Indian Claims Commission, and Chippewas of Kettle & Stony Point First Nation. Inquiry into the 1927 Surrender Claim of the Chippewas of Kettle and Stony Point First Nation. Ottawa: The Commission, 1997.
